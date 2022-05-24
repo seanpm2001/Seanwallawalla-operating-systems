@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+The production branch of the future GitHub pages site for the @seanwallawalla-operating-systems site. This project contains information about my operating system projects.
